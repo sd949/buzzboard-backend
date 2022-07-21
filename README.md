@@ -30,4 +30,11 @@ To start the app
 
 now your server is up & running 
 
+Notes:-
+
+1.in lib/utils generic error log is the file where all the  error will be logged for dubag perpose
+2. config data is somthing where all the structure was saved
+3. database.js contains all the data base related connection, 
+4. constants/database contains all the collection name
+
 Thanks
